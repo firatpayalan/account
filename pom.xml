@@ -23,7 +23,7 @@
 		<axon.version>4.2.1</axon.version>
 		<axon-amqp.version>4.2</axon-amqp.version>
 		<axon-kafka.version>4.0-RC2</axon-kafka.version>
-		<swagger.version>2.9.2</swagger.version>
+		<swagger.version>2.10.0</swagger.version>
 	</properties>
 
 	<dependencyManagement>
